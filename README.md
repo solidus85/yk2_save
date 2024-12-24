@@ -1,3 +1,8 @@
+# Python Files
+I used chatgpt to create python files based on the C source data since the programs weren't working for me.  The python scripts work perfectly for me.
+
+Forked from https://github.com/mosamadeeb/yk2_save
+
 # yk2_save
  Tool for encrypting/decrypting Yakauza Kiwami 2 saves.
 
